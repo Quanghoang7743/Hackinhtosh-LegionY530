@@ -15,5 +15,6 @@ Kext:
 - VoodooPS2Controller.kext
 - WhateverGreen.kext
 
-None Wifi & BT
+None Wifi & BT &
 On receiver USB Wifi
+Extract file OC to use. Thank!!
