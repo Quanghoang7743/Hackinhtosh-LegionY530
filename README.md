@@ -8,7 +8,7 @@ EFI premade of OpenCore bootloader for Lenovo Legion Y530 is here and runs Ventu
 - Intel core I5 8300H
 - Ram: 24GB
 - SSD: 521 GB + 1 TB HDD
-- Graphics: UHD 630 + NVIDA GTX 1050
+- Graphics: UHD 630 + NVIDIA GTX 1050
 
 ## Kext:
 - AppleALC.kext
